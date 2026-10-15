@@ -1,0 +1,9 @@
+[project]
+name = "pku-dentist"
+version = "0.1.0"
+description = "北京大学 i看牙自动预约"
+requires-python = ">=3.9"
+dependencies = [
+    "playwright==1.60.0",
+    "pyyaml>=6.0,<7",
+]

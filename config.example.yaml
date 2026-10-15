@@ -1,0 +1,6 @@
+username: "你的学号或职工号"
+password: "你的密码"
+project: "洁治(洗牙)"
+interval_seconds: 5
+max_attempts: 120
+login_timeout_seconds: 180
