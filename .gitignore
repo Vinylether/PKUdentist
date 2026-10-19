@@ -4,5 +4,7 @@ config.yaml
 __pycache__/
 *.pyc
 .pytest_cache/
-test_dentist.py
+test_*.py
+*_test.py
+tests/
 uv.lock
