@@ -4,3 +4,4 @@ project: "洁治(洗牙)"
 interval_seconds: 5
 max_attempts: 120
 login_timeout_seconds: 180
+start_time: "09:00"  # 最早就诊时间（含），选择此时间起第一个可用时段
